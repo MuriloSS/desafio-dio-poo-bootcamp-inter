@@ -5,7 +5,7 @@ import java.util.Set;
 public class Dev {
 	
 	private String nome;
-	private Set<Curso> mentorias;
+	private Set<Curso> mentoria;
 	private Set<Curso> atividades;
 	
 	public Dev() {}
